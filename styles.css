@@ -1,0 +1,56 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#news, #football-clubs {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.club {
+    background-color: #e2e2e2;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h2, h3 {
+    color: #1026ed;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f5efef;
+    color: rgb(86, 13, 205);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
